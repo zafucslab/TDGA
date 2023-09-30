@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>JPEGImages</folder>
+	<filename>Early_blight (158).JPG</filename>
+	<path>E:\数据集\番茄数据集\VOCdevkit\VOC2007\JPEGImages\Early_blight (158).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Early_blight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>135</ymin>
+			<xmax>154</xmax>
+			<ymax>160</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Early_blight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>195</ymin>
+			<xmax>132</xmax>
+			<ymax>216</ymax>
+		</bndbox>
+	</object>
+</annotation>

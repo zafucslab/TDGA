@@ -1,0 +1,38 @@
+<annotation>
+	<folder>lateblight</folder>
+	<filename>late_blight (54).jpg</filename>
+	<path>C:\Users\xie rong chang\Desktop\Leafy\JPEGImages\lateblight\late_blight (54).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Late_blight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>351</ymin>
+			<xmax>465</xmax>
+			<ymax>519</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Late_blight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>64</ymin>
+			<xmax>501</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>

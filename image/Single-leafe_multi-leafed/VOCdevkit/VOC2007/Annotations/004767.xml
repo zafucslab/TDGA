@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>Leaf_Mold (620)_000001.jpg</filename>
+	<path>E:\Tomato\JPEGImages\Leaf_Mold (620).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Leaf_Mold</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>77</ymin>
+			<xmax>171</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>
